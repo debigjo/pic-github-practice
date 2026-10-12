@@ -1,3 +1,4 @@
+version2 i wan add buzer
 ; blink.asm - My First Git Project
 ; PIC16F877A - LED Blink on PORTB
 ; Author: EB
