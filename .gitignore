@@ -1,0 +1,6 @@
+# MPLAB X
+build/
+dist/
+nbproject/private/
+*.hex
+*.lst
